@@ -56,27 +56,19 @@ go to your browser and paste
 
   Enjoy!
   
-# Website overview
-  
-  coming soon:
 
-# Framework used
+# Framework used :
+
   -- Flask
-  --
 
-# forbidden stuff
+# Forbidden :
 
-  -- ORM eg Flask SQLAlchemy - Object Relational Mapper
+  -- ORM's like Flask SQLAlchemy - Object Relational Mapper
 
   -- Validators
 
   -- User Account Managers
 
+# Creators :
 
-  # TODO
-
-  - forces user to fill in extended profile before viewing matches
-  - geolocation // can force user to enter location and query using similar location
-  - online and last seen status
-  - person who visited your profile
-  - block user and not appearing in search
+  -- [William Mabitsela](https://github.com/williamwtc)
