@@ -5,9 +5,13 @@
   See the [Installation.md](https://github.com/WilliamWTC/Matcha/blob/master/Installation.md) to run the project on your computer.
 
   The version of the project in this repo is slightly edited to my liking.
-  
+
   The group project can be found at : https://github.com/KudzanaiGomera/Matcha
   
+
+## Preview
+
+<img src="https://github.com/WilliamWTC/Matcha/blob/master/Matcha_login.PNG?raw=true" width="100%" title="preview" alt="preview">
 
 # Framework used :
 
