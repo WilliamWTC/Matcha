@@ -9,9 +9,9 @@
   The group project can be found at : https://github.com/KudzanaiGomera/Matcha
   
 
-## Preview
+<!-- ## Preview
 
-<img src="https://github.com/WilliamWTC/Matcha/blob/master/Matcha_login.PNG?raw=true" width="100%" title="preview" alt="preview">
+<img src="https://github.com/WilliamWTC/Matcha/blob/master/Matcha_login.PNG?raw=true" width="100%" title="preview" alt="preview"> -->
 
 # Framework used :
 
