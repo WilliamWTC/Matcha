@@ -1,6 +1,11 @@
 # Matcha
 
-  Matcha is a mobile-friendly dating website, with some popular features from apps like Tinder as well as common features that are on most dating websites.
+  This project is about creating a dating website. A user will then be able to register, connect, fill his/her profile, search and look into the profile of other users, like them and chat with those that “liked” back.
+
+  See the [Installation.md](https://github.com/WilliamWTC/Matcha/blob/master/Installation.md) to run the project on your computer.
+
+  The version of the project in this repo is slightly edited to my liking.
+  The group project can be found at : https://github.com/KudzanaiGomera/Matcha
   
 
 # Framework used :
