@@ -2,9 +2,9 @@
 
   This project is about creating a dating website. A user will then be able to register, connect, fill his/her profile, search and look into the profile of other users, like them and chat with those that “liked” back.
 
-  -- See the [Installation.md](https://github.com/WilliamWTC/Matcha/blob/master/Installation.md) to run the project on your computer.
+  - See the [Installation.md](https://github.com/WilliamWTC/Matcha/blob/master/Installation.md) to run the project on your computer.
 
-  -- See [Previews](https://github.com/WilliamWTC/Matcha/tree/master/previews) to view images of the project.
+  - See [Previews](https://github.com/WilliamWTC/Matcha/tree/master/previews) to view images of the project.
 
   The version of the project in this repo is slightly edited to my liking.
 
