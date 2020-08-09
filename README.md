@@ -72,3 +72,9 @@ go to your browser and paste
 # Creators :
 
   -- [William Mabitsela](https://github.com/williamwtc)
+
+  -- [Kudzanai Gomera](https://github.com/KudzanaiGomera)
+
+  -- [Joshua Kwayiba](https://github.com/Sway-Sway)
+
+  -- [Nduduzo Hlatshwayo](https://github.com/Keiko-blerd)
